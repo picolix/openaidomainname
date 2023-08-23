@@ -7,20 +7,7 @@ body {
 div {
     margin: 0px 5px;
 }
-/*
-th,td {
-    border: solid 1px;
-    padding: 5px;
-}
 
-th {
-    background-color:  #ddd;
-}
- 
-table {
-    border-collapse:  collapse;
-}
-*/
 .screen_size {
         max-width: 36rem;
 }

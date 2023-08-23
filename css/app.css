@@ -99,7 +99,6 @@ header {
 	margin-bottom: .75rem;
 	z-index: 1021 !important;
 }
-	/* GIILPについて */
 	@media screen and (max-width: 400px) {
 		header div.header {
 			font-size: .8rem;
